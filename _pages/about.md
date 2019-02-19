@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Masashi</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Masashi</strong> Harada
+description: <a href="">McGill University</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
