@@ -3,6 +3,7 @@ layout: about
 permalink: /
 title: <strong>Masashi</strong> Harada
 description: <a href="">McGill University</a>. 1085 Avenue du Docteur-Penfield, Montréal, QC H3A 1A7.
+
 masasashi.harada@mail.mcgill.ca.
 
 profile:
